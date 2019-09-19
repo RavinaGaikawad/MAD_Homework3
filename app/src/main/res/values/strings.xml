@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="selectComplexity">Select Complexity :</string>
+    <string name="minimum">Minimum:</string>
+    <string name="maximum">Maximum:</string>
+    <string name="average">Average:</string>
+    <string name="buttongenerate">Generate Number Async Task</string>
+</resources>
