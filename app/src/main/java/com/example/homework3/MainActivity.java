@@ -98,6 +98,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 if (number == 0) {
+                    tv_minresult.setText("");
+                    tv_maxresult.setText("");
+                    tv_avgresult.setText("");
                     Toast.makeText(MainActivity.this, "Please select the complexity level.", Toast.LENGTH_SHORT).show();
                 } else {
                     ll_progress.setVisibility(View.VISIBLE);
