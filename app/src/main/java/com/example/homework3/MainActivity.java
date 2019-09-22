@@ -1,3 +1,7 @@
+/*
+Group 1 5 
+Ravina Gsikawad
+Sameer Shanbhag */
 package com.example.homework3;
 
 import androidx.annotation.NonNull;
@@ -39,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("InClass4");
+        setTitle("Homework 03");
         tv_avgresult = findViewById(R.id.tv_avgresult);
         tv_maxresult = findViewById(R.id.tv_maxresult);
         tv_minresult = findViewById(R.id.tv_minresult);
